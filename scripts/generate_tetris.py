@@ -2,7 +2,7 @@
 """
 Gera um GIF animado estilo Tetris em uma grade 53x7 (semelhante ao calendário de contribuições).
 Dependência: Pillow
-Uso: python generate_tetris.py --out tetris.gif --frames 200
+Uso: python generate_tetris.py --out tetris.gif --frames 800 --fps 15
 """
 
 import argparse
