@@ -1,0 +1,25 @@
+name: Gerar Animação de Contribuições
+
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          # O nome de usuário do seu novo perfil do GitHub
+          github_user_name: ${{ github.repository_owner }}
+
+          # Arquivos de saída
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-pacman.svg?pacman=true
