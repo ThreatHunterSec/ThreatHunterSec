@@ -9,7 +9,6 @@ on:
 
 jobs:
   build:
-    # Permissão para o bot salvar o arquivo no repositório
     permissions:
       contents: write
       
@@ -17,14 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Gerar Animação Pac-Man
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          
-          # --- MUDANÇA PRINCIPAL ---
-          # Força a geração de APENAS o arquivo do Pac-Man.
-          # Removemos as outras saídas para garantir que só ele seja criado.
-          outputs: dist/github-contribution-grid-snake-pacman.svg?pacman=true
+          outputs: dist/github-contribution-grid-snake-pacman.svg
+          snake_head: pacman    # 👈 aqui é a mágica
 
       - name: Salvar animação gerada no repositório
         run: |
