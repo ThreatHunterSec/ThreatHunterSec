@@ -2,10 +2,6 @@
 
 ![Tetris contributions](tetris.gif)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThreatHunterSec/ThreatHunterSec/output/github-contribution-grid-snake-pacman.svg?v=1" alt="Animação Pac-Man das Contribuições">
-</p>
-
 
 <!--
 **ThreatHunterSec/ThreatHunterSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
