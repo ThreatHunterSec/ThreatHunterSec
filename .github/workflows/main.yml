@@ -7,6 +7,11 @@ on:
 
 jobs:
   build:
+    # --- CORREÇÃO AQUI: Adiciona permissão de escrita ---
+    permissions:
+      contents: write
+    # --- FIM DA CORREÇÃO ---
+      
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -19,7 +24,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-pacman.svg?pacman=true
 
-      # --- PASSO ADICIONADO PARA SALVAR A IMAGEM ---
       - name: Push (enviar) a pasta dist para o repositório
         run: |
           git config --global user.name "github-actions[bot]"
