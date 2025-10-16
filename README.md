@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThreatHunterSec/ThreatHunterSec/main/dist/github-contribution-grid-snake-pacman.svg" alt="Animação Pac-Man das Contribuições">
+  <img src="https://raw.githubusercontent.com/ThreatHunterSec/ThreatHunterSec/main/dist/github-contribution-grid-snake-pacman.svg?v=1" alt="Animação Pac-Man das Contribuições">
 </p>
 <!--
 **ThreatHunterSec/ThreatHunterSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
