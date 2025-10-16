@@ -1,10 +1,8 @@
 name: Gerar Animação de Contribuições
 
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  # Permite que você rode manualmente pela aba "Actions"
   workflow_dispatch:
 
 jobs:
@@ -15,11 +13,17 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          # O nome de usuário do seu novo perfil do GitHub
           github_user_name: ${{ github.repository_owner }}
-
-          # Arquivos de saída
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-pacman.svg?pacman=true
+
+      # --- PASSO ADICIONADO PARA SALVAR A IMAGEM ---
+      - name: Push (enviar) a pasta dist para o repositório
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git commit -m "Gerar e atualizar animação de contribuições"
+          git push
