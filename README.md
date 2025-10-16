@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Tetris contributions](tetriss.gif)
+![Tetris contributions](tetris.gif)
 
 
 <!--
