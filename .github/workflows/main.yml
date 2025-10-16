@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake-pacman.svg
-          snake_head: pacman    # 👈 aqui é a mágica
+          snake_head: pacman  
 
       - name: Salvar animação gerada no repositório
         run: |
