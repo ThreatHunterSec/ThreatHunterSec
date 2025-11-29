@@ -45,7 +45,6 @@ My expertise centers on leading and implementing complex security solutions:
 * **Vulnerability Management:** Coordinated vulnerability management in hybrid environments (Azure, GCP e AWS), ensuring alignment with **CIS Controls v8**.
 * **Operational Efficiency:** Automated Disaster Recovery (DR) and secure infrastructure provisioning with IaC, leading to **40% reduction in repetitive task execution time** and **30% increase in proactive anomaly detection** (as Analyst).
 * **Compliance:** Ensured continuous compliance with major standards, including **ISO 27001**, **LGPD**, and **PCI-DSS** across complex IT landscapes.
-* **Cost Reduction:** Led cloud migration and operational optimization projects, resulting in **20% reduction in operational costs** and **99.9% ERP availability** (as Coordinator).
 
 ---
 
