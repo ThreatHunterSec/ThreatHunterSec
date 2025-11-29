@@ -13,23 +13,23 @@ I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over 
 
 My expertise centers on leading and implementing complex security solutions:
 
-### 🔑 Identity & Access Management (IAM/IGA/PAM)
+### Identity & Access Management (IAM/IGA/PAM)
 * **Privileged Access Management (PAM):** Architecting and managing high-risk environments using **BeyondTrust** solutions.
 * **Identity Governance (IGA):** Implementing and optimizing enterprise IGA systems like **SailPoint** and **Microsoft Entra ID**.
 * **Identity Providers (IdP):** Deep proficiency in **Okta** and **Keycloak** for SSO, federation, and centralized access control.
 
-### 🔒 DevSecOps & Application Security (AppSec)
+### DevSecOps & Application Security (AppSec)
 * **Security Integration:** Embedding security early in the SDLC using **SAST/DAST** and **GitHub Advanced Security** in CI/CD pipelines.
 * **Infrastructure as Code (IaC):** Automating secure provisioning and hardening of cloud resources with **Terraform** and **PowerShell**.
 * **Container Security:** Expertise in securing Kubernetes/EKS workloads using **Calico** (eBPF and Network Policy enforcement).
 
-### 🤖 AI/ML for Cyber Defense (Blue Team)
+### AI/ML for Cyber Defense (Blue Team)
 * **AI Security Engineering:** Currently focused on leveraging Generative AI concepts (**RAG, Fine-Tuning**) and **AI Vector Search** for threat intelligence and security anomaly detection.
 * **Incident Response & Automation (SOAR):** Designing and implementing **SIEM/SOAR** solutions (**Sentinel, Wazuh, Shuffle**) to automate detection and response playbooks.
 
 ---
 
-## 🔭 Currently Working On...
+## Currently Working On...
 
 * **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for critical data pipelines, focusing on encryption, DLP (**Purview**), and robust **IAM** across data lakes.
 * **AWS & CySA+ Roadmap:** Actively pursuing the **AWS Solutions Architect Associate** and **CompTIA CySA+** certifications to validate advanced cloud architecture and defensive security analysis skills.
@@ -37,11 +37,11 @@ My expertise centers on leading and implementing complex security solutions:
 
 <br>
 
-➡️ **I am open to:** New challenges as a **Security Engineer** or **Architect** focusing on **IAM/PAM**, **DevSecOps**, or applying **Data/AI Engineering** to enhance Cyber Defense operations.
+**I am open to:** New challenges as a **Security Engineer** or **Architect** focusing on **IAM/PAM**, **DevSecOps**, or applying **Data/AI Engineering** to enhance Cyber Defense operations.
 
 ---
 
-## 🏅 Key Achievements & Results (Based on Experience)
+## Key Achievements & Results (Based on Experience)
 
 * **Vulnerability Management:** Coordinated vulnerability management in hybrid environments (Azure, Algar), ensuring alignment with **CIS Controls v8**.
 * **Operational Efficiency:** Automated Disaster Recovery (DR) and secure infrastructure provisioning with IaC, leading to **40% reduction in repetitive task execution time** and **30% increase in proactive anomaly detection** (as Analyst).
@@ -50,7 +50,7 @@ My expertise centers on leading and implementing complex security solutions:
 
 ---
 
-## 📜 Selected Certifications & Specializations
+## Selected Certifications & Specializations
 
 To improve scannability, here are the most relevant certifications grouped by domain:
 
@@ -76,7 +76,4 @@ To improve scannability, here are the most relevant certifications grouped by do
 
 ---
 
-### Connect with me!
 
-* [Link to your LinkedIn Profile]
-* [Link to your Portfolio/Blog (if applicable)]
