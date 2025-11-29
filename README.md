@@ -19,7 +19,7 @@ My expertise centers on leading and implementing complex security solutions:
 
 ### DevSecOps & Application Security (AppSec)
 * **Security Integration:** Embedding security early in the SDLC using **SAST/DAST** and **GitHub Advanced Security** in CI/CD pipelines.
-* **Infrastructure as Code (IaC):** Automating secure provisioning and hardening of cloud resources with **Terraform** and **PowerShell**.
+* **Infrastructure as Code (IaC):** Automating secure provisioning and hardening of cloud resources with **Terraform**, **Bash** and **PowerShell**.
 * **Container Security:** Expertise in securing Kubernetes/EKS workloads using **Calico** (eBPF and Network Policy enforcement).
 
 ### AI/ML for Cyber Defense (Blue Team)
