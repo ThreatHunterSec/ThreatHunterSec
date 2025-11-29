@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![Tetris contributions](tetris.gif)
 
