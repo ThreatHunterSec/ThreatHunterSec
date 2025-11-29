@@ -2,7 +2,7 @@
 ![Tetris contributions](tetris.gif)
 
 
-# 🛡️ Senior Cloud & Security Engineer (IAM | DevSecOps | Blue Team)
+# 🛡️ Senior Cloud & Security Engineer (IAM | DevSecOps | AppSec | Blue Team)
 
 I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over **9 years** of experience in architecting, engineering, and automating resilient cybersecurity programs across multi-cloud environments (Azure, GCP, AWS, OCI). My approach is focused on aligning robust security controls with business agility and measurable results.
 
