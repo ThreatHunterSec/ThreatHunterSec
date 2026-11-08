@@ -2,13 +2,13 @@
 ![Tetris contributions](tetris.gif)
 
 
-# 🛡️ Senior Cloud & Security Engineer (IAM | DevSecOps | AppSec)
+# Senior Cloud & Security Engineer (IAM | DevSecOps | AppSec)
 
 I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over **9 years** of experience in architecting, engineering, and automating resilient cybersecurity programs across multi-cloud environments (Azure, GCP, AWS, OCI). My approach is focused on aligning robust security controls with business agility and measurable results.
 
 ---
 
-## 🎯 Core Expertise & Engineering Focus
+## Core Expertise & Engineering Focus
 
 My expertise centers on leading and implementing complex security solutions:
 
@@ -30,8 +30,7 @@ My expertise centers on leading and implementing complex security solutions:
 
 ## Currently Working On...
 
-* **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for critical data pipelines, focusing on encryption, DLP (**Purview**), and robust **IAM** across data lakes.
-* **AWS & CySA+ Roadmap:** Actively pursuing the **AWS Solutions Architect Associate** and **CompTIA CySA+** certifications to validate advanced cloud architecture and defensive security analysis skills.
+* **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for critical data pipelines, focusing on encryption, DLP, and robust **IAM** across data lakes.
 * **AI-Powered Blue Team:** Building ML models and automation workflows for **proactive threat prioritization** and optimizing SOAR efficiency.
 
 <br>
@@ -53,21 +52,21 @@ My expertise centers on leading and implementing complex security solutions:
 To improve scannability, here are the most relevant certifications grouped by domain:
 
 ### Cloud & Infrastructure Security
-* **Oracle Cloud Infrastructure | Architect Certified**
+* *Oracle Cloud Infrastructure | Architect Certified*
 * Microsoft Certified | Azure Fundamentals / 365 Fundamentals
-* Certified Calico Operator | AWS Expert (**Kubernetes/EKS Security**)
+* Certified Calico Operator | AWS Expert (*Kubernetes/EKS Security*)
 * Aviatrix | Multicloud Network Associate
 * Certified Calico Operator | eBPF
 
 ### Identity, Access & Governance
-* **SailPoint | Identity Security Leader** (IGA)
-* **BeyondTrust** Certified Administrator/Engineer (PAM)
+* *SailPoint | Identity Security Leader* (IGA)
+* *BeyondTrust** Certified Administrator/Engineer (PAM)
 * Microsoft Certified | Security, Compliance, and Identity Fundamentals
-* **GitHub Certified | Advanced Security**
+* *GitHub Certified | Advanced Security*
 
 ### AI, Data & Blue Team
-* **Databricks | AI Security Fundamentals**
-* **Oracle Certified Professional | Generative AI / AI Vector Search**
+* *Databricks | AI Security Fundamentals*
+* *Oracle Certified Professional | Generative AI / AI Vector Search*
 * MongoDB | Building RAG Apps
 * Cyber Threat Intelligence Analyst | CTI
 * Snowflake | SnowPro Associate
